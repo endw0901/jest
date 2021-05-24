@@ -11,6 +11,7 @@ https://create-react-app.dev/docs/running-tests/
 
 ```
 npx create-react-app jest-react --template typescript
+cd jest-react
 npm install axios
 yarn add -D @types/react
 
